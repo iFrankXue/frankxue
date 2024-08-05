@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Frank Xue / Personal Site"
+title                    : "Frank Xue's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Frank Xue"
 description              : &description "personal description"
 url                      : https://frankxue.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Do what you need and you'll be the one."
+  location         : "Vancouver BC, CANADA"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ifrankxue#gmail.com(#=@)" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
 
   # Repositories and software development
